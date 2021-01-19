@@ -1,6 +1,6 @@
 {
-  "name": "@splitsoftware/splitio",
-  "version": "10.15.2",
+  "name": "splitio-sdk",
+  "version": "10.15.3",
   "description": "Split SDK",
   "files": [
     "README.md",
@@ -12,9 +12,9 @@
     "es",
     "src"
   ],
-  "repository": "splitio/javascript-client",
-  "homepage": "https://github.com/splitio/javascript-client#readme",
-  "bugs": "https://github.com/splitio/javascript-client/issues",
+  "repository": "laptransang/javascript-client",
+  "homepage": "https://github.com/laptransang/javascript-client#readme",
+  "bugs": "https://github.com/laptransang/javascript-client/issues",
   "license": "Apache-2.0",
   "author": "Facundo Cabrera <facundo@split.io>",
   "contributors": [
